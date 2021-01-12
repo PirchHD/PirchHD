@@ -29,18 +29,6 @@
 <br />
 <br />
 
-<<<<<<< HEAD
-=======
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
->>>>>>> 8bc0a09335715cfadcdf5fbbecef13330eee8251
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr

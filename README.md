@@ -28,6 +28,15 @@
 <br />
 <br />
 
+---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+<img align="left" alt="Simon Prochal's Github Stats" src="https://github-readme-stats.vercel.app/api?PirchHD=anuraghazra&show_icons=true&theme=radical" />
+
+</details>
+
+
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr

@@ -3,7 +3,7 @@
 
 ## I'm a Student, Future Junior Fullstack Developer !!!
 
-- 🌱 I’m currently learning everything :3
+- 🌱 I’m currently learning design pattern :3
 - ⚡ Fun fact: I love to play guitar and fishkeeping
 
 ### Spotify Playing 🎧

@@ -1,7 +1,7 @@
 ### Hi there, I'm Simon (PirchHD) 👋
 
 
-## I'm a Student, Future Junior Fullstack Developer !!!
+## I'm a Student and Java Developer !!!
 
 - 🌱 I’m currently learning design pattern :3
 - ⚡ Fun fact: I love to play guitar and fishkeeping

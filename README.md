@@ -3,7 +3,7 @@
 
 ## I'm a Student and Java Developer !!!
 
-- 🌱 I’m currently learning html/css/js :3
+- 🌱 I’m currently learning kotlin and mobile stuff
 - ⚡ Fun fact: I love to play guitar and fishkeeping
 - I work in logic synergy (from 06.2021) 
 

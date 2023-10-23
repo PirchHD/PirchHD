@@ -3,7 +3,7 @@
 
 ## I'm a Student and Java Developer !!!
 
-# About me
+1. About me
 
 - I work in logic synergy (from 06.2021)
 - I completed my engineering degree in 2023 at the 'WSZIB' university, majoring in Computer Science with a specialization in Object-Oriented Programming.
